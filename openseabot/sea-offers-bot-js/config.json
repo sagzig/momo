@@ -1,0 +1,19 @@
+{
+    "network":        "rinkeby",
+    "infura_key":     "https://rinkeby.infura.io/v3/472cbaee6ce8434a8097748bfa507039",
+    "mnemonic":       "palace connect alley video tourist misery already lesson mechanic wave float smart",
+    "wallet_address": "cb0f881587b4474b8d56cdf308632d17",
+    "opensea_key": "",
+  
+    "price_auto":     true,
+    "price_floor":    0.001,
+    "price_roof":     100,
+    "price_epsilon":  0.001,
+  
+    "expiration":     4,
+  
+    "delay":                500,
+    "random_delay":         500,
+    "acquire_delay":        500,
+    "acquire_random_delay": 500
+  }
